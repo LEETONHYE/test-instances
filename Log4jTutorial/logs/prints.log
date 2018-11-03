@@ -1,0 +1,5 @@
+00:16:39.491 [main] FATAL Beta.Demo1 - I am kidding
+00:17:13.130 [main] DEBUG Beta.Demo1 - gone with wind
+00:17:13.132 [main] INFO  Beta.Demo1 - pride and prejudice
+00:17:13.132 [main] ERROR Beta.Demo1 - football is not soccer
+00:17:13.132 [main] FATAL Beta.Demo1 - I am kidding
